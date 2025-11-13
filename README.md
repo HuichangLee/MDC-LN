@@ -45,18 +45,16 @@ Implements a theory-constrained lattice network assuming **additive separability
 - Models  
   - **ψ**: individual-specific taste parameters (via deep neural networks)  
   - **γ**: alternative-specific satiation (via lattice networks with concavity + monotonicity constraints)
-- Ensures shape-constrained utility learning under the generalized MDCEV structure.
 
 ---
 
 ### **`MDC_LN_with_cross_interactions`**
 Implements the extended MDC-LN framework **without assuming additive separability**, modeling:
 
-- **ψ**: individual-specific attributes  
-- **γ**: alternative-specific satiation  
-- **δ**: cross-alternative interaction effects  
-
-Again, **ψ** is flexibly estimated with deep networks, while **γ** maintains concavity and monotonicity through lattice constraints.
+- Models
+  - **ψ**: individual-specific taste parameters (via deep neural networks)  
+  - **γ**: alternative-specific satiation (via lattice networks with concavity + monotonicity constraints)
+  - **δ**: cross-alternative interaction effects (via lattice networks with concavity constraints)
 
 ---
 

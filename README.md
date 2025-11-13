@@ -7,7 +7,7 @@ https://ssrn.com/abstract=5606976
 ---
 
 ## Overview
-This repository provides an implementation of a hybrid modeling framework that integrates deep neural networks with theory-constrained lattice networks. The model flexibly learns utility functions underlying multiple discrete–continuous choices while strictly preserving essential microeconomic properties.
+This repository provides an implementation of MDC-LN, a hybrid modeling framework that integrates deep neural networks with theory-constrained lattice networks. The model flexibly learns utility functions underlying multiple discrete–continuous choices while strictly preserving essential microeconomic properties.
 
 A gradient-ascent fixed-point iterator predicts the optimal consumption bundle implied by the parameterized utility function. The discrepancy between predicted and observed consumption is then backpropagated using an implicit-differentiation approach, enabling stable and efficient training.
 

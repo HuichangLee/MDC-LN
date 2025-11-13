@@ -48,7 +48,7 @@ Implements a theory-constrained lattice network assuming **additive separability
 
 ---
 
-### **`MDC_LN_with_cross_interactions`**
+### **`MDC_LN_with_cross_interactions.ipynb`**
 Implements the extended MDC-LN framework **without assuming additive separability**, modeling:
 
 - Models

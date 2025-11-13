@@ -1,7 +1,7 @@
 # A Theory-Constrained Framework for Data-Driven Learning of Multiple Discrete–Continuous Choices
 **Lee, H., Hawkins, J., Kim, D.-K., Bansal, P., & Kim, E.-J. (2025).**  
 A theory-constrained framework for data-driven learning of multiple discrete–continuous choices.  
-(Under review at *Transportation Research Part B: Methodological*)  
+(Under review in *Transportation Research Part B: Methodological*)  
 https://ssrn.com/abstract=5606976
 
 ---

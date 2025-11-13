@@ -65,5 +65,5 @@ Implements the extended MDC-LN framework **without assuming additive separabilit
 ---
 
 ## Authors
-- [@HuichangLee](https://github.com/HuichangLee)
+- [@Huichang Lee](https://github.com/HuichangLee)
 
